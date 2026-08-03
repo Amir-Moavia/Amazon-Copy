@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🛒 Amazon Clone
 
@@ -186,4 +186,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ⭐ **Star this repo if you found it helpful!** ⭐
 
 </div>
-]]>
